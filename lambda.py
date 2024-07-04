@@ -10,8 +10,8 @@
 
 #WAP TO ADD 2 NUMBERS
 
-# lambda a,b: print(a+b)
-# (10,15)
+# x=lambda a,b: (a+b)
+# print(x(10,15))
 
 # WAP USING ARRAY.
 

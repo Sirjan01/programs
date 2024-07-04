@@ -1,15 +1,15 @@
 #TO CREATE
 
-#file=open("file2.txt","w")
-#file.write("i am a python developer\n")
-#file.write("i am student")
-#file.close()
+# file=open("file2.txt","w")
+# file.write("i am a python developer\n")
+# file.write("i am student")
+# file.close()
 
 #TO READ
 
-#file=open("file2.txt","r")
-#print(file.read())
-#file.close()
+# file=open("file2.txt","r")
+# print(file.read())
+# file.close()
 
 #file=open("file2.txt")
 #print(file.read())
