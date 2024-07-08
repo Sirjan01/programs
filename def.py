@@ -38,4 +38,7 @@
 # if __name__ == "__main__":
 #     calculator()
 
-
+# WAP FOR PRINTING FROM OUT.
+# def hlo(greek):
+#     return greek
+# print(hlo("hello world"))
